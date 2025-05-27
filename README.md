@@ -2,12 +2,22 @@
 
 
 
-## Lead to Cash
+## Lead to Cash 
+
+Cotação/Lead
 
 ## Record to Retire
 
+Lançamentos Contábeis
+
 ## Design to Operate
+
+Planejamento 
 
 ## Source to Pay
 
-## Hire to Retire
+Requisição de Compra
+
+## Hire to Retire 
+
+Recrutamento 
