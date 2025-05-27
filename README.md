@@ -1,23 +1,35 @@
-# Processo de Negócios 
+# Processo de Negócios END TO END
 
 
 
 ## Lead to Cash 
 
-Cotação/Lead
+Faturamento de Recebimento
 
-## Record to Retire
+Objetivo: Gerenciar toda a jornada do cliente, desde a prospecção até a entrega
 
-Lançamentos Contábeis
+## Record to Retire (Lançamentos Contábeis)
 
-## Design to Operate
+Processo Contábil e Financeiro
 
-Planejamento 
+Objetivo: Gerenciar e consolidar dados financeiros para gerar relatórios precisos e tomar decisões.
 
-## Source to Pay
+## Design to Operate (Planejamento)
 
-Requisição de Compra
+Processo de Supply Chain e Manufatura
 
-## Hire to Retire 
+Objetivo: Gerenciar o ciclo de vida do produto, desde o design até a produção e entrega.
 
-Recrutamento 
+## Source to Pay (Requisição de Compra)
+
+Processo de Compras e Suprimentos
+
+Objetivo: Gerenciar o ciclo de aquisição de bens e serviços, desde a seleção de fornecedores até o pagamento.
+
+## Hire to Retire (Recrutamento)
+
+Processo de Gestão de Recursos Humanos
+
+Objetivo: Gerenciar todo o ciclo de vida do colaborador na empresa.
+
+
